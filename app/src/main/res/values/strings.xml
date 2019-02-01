@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AngelBroking</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="pro">PRO</string>
+    <string name="upgrade_your_account">Upgrade your account</string>
+    <string name="add_new">Add \nNew</string>
+    <string name="accounts">Accounts</string>
+    <string name="transaction">Transaction</string>
+    <string name="cards">Cards</string>
+</resources>
